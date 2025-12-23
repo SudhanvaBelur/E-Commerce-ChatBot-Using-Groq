@@ -1,0 +1,51 @@
+# Virtualenvs
+.venv/
+venv/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Logs / runtime
+*.log
+logs/
+.pytest_cache/
+coverage.xml
+.coverage
+
+# DB / data
+*.sqlite
+*.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Environment files — do NOT commit your env files
+.env
+app/.env
+.env.*
+
+# Misc
+*.egg-info/
+*.egg
+dist/
+build/
+
+# export of key files
+*.pem
+
+# Local secrets
+secrets/
+
+# Notebook outputs
+*.nbconvert.ipynb
