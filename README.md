@@ -1,7 +1,7 @@
 # 💬 e-commerce chatbot (Gen AI RAG project using GROQ)
 
 Paste your GROQ API KEY in .env before live demo
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](((https://e-commerce-chatbot-using-grog.streamlit.app/)))
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://e-commerce-chatbot-using-grog.streamlit.app/)
 
 This is POC of an intelligent chatbot tailored for an e-commerce platform, enabling seamless user interactions by accurately identifying the intent behind user queries. It leverages real-time access to the platform's database, allowing it to provide precise and up-to-date responses.
 
